@@ -1,0 +1,5 @@
+Networkx~=2.6.2
+Matplotlib
+Math
+Sys
+Tkinter
